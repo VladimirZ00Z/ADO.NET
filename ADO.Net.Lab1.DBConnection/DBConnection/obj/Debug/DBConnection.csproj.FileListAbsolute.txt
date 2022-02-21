@@ -1,0 +1,9 @@
+C:\Users\Владимир\source\repos\DBConnection\DBConnection\bin\Debug\DBConnection.exe
+C:\Users\Владимир\source\repos\DBConnection\DBConnection\bin\Debug\DBConnection.pdb
+C:\Users\Владимир\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.AssemblyReference.cache
+C:\Users\Владимир\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.Form1.resources
+C:\Users\Владимир\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.Properties.Resources.resources
+C:\Users\Владимир\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.GenerateResource.cache
+C:\Users\Владимир\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.exe
+C:\Users\Владимир\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.pdb
